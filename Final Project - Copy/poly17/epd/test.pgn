@@ -1,0 +1,119 @@
+[Event "Tilburg "]
+[Site "Tilburg "]
+[Date "1998.11.02"]
+[Round "1"]
+[White "Adams, M."]
+[Black "Topalov, V."]
+[Result "1-0"]
+[BlackElo "2700"]
+[WhiteElo "2715"]
+
+1.e4 c5 2.Nc3 e6 3.Nf3 a6 4.d4 cxd4 5.Nxd4 b5 6.Bd3 Bb7 7.O-O Qb6 8.Nf3 Qc7 9.Re1 Bc5 10.e5 f5 11.exf6 Nxf6 12.Ne4 Bxe4 13.Bxe4 Nc6 14.Bxc6 Qxc6 15.Ne5 Qc7 16.Bf4 O-O 17.Bg3 Qb7 18.Qe2 Bb6 19.Kh1 Rac8 20.Rad1 Nd5 21.c3 Ba7 22.Rd2 a5 23.Qe4 a4 24.a3 Bb8 25.f3 Bxe5 26.Bxe5 Qc6 27.Bd4 Rce8 28.h3 Rf4 29.Qe5 Rf7 30.Qg3 h6 31.Re4 Kh7 32.Rg4 Rg8 33.Qe1 Rf5 34.Qb1 Ne7 35. Re2 Qb7 36.Rf4 Kh8 37.Rh4 Kh7 38.Kg1 Qc7 39.Re5 g6 40.Re2 Rxf3 41.Qe4 Rf5 42.Rxh6+ Kxh6 43.Qh4+ Rh5 44.Qxe7 Qd8 45.Be3+ g5 46.Qb4 Qe8 47.Qxb5 d5 48. Qb4 Kh7 49.Bd4 Qd7 50.b3 axb3 51.Qxb3 g4 52.Qb1+ Rf5 53.hxg4 Rxg4 54.Rb2 Qd6 55.Rb7+ Kh6 56.Rb6 Rxg2+ 57.Kxg2 Rg5+ 58.Kf1 Qf4+ 59.Ke1 Qh4+ 60.Kd1 Qh3 61.Kc2 1-0
+
+[Event "Tilburg "]
+[Site "Tilburg "]
+[Date "1998.10.28"]
+[Round "2"]
+[White "Adams, M."]
+[Black "Svidler, P."]
+[Result "1-0"]
+[BlackElo "2710"]
+[WhiteElo "2715"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e5 7.Nb3 Be6 8.f3 Nbd7 9.g4 b5 10.g5 Nh5 11.Qd2 Nb6 12.Nd5 Nxd5 13.exd5 Bd7 14.Na5 Rc8 15. O-O-O Be7 16.Kb1 O-O 17.c4 Nf4 18.h4 Re8 19.Bxf4 exf4 20.Nc6 Qb6 21.cxb5 axb5 22.Qxf4 Bxc6 23.dxc6 Rxc6 24.Bd3 Rc5 25.Rhe1 Qc7 26.Qe4 g6 27.f4 Qd7 28.h5 Rcc8 29.Qd5 Rc5 30.Qe4 Rcc8 31.hxg6 hxg6 32.f5 Bxg5 33.Qg2 Rxe1 34. Rxe1 Qe7 35.Qg1 Qf6 36.Rf1 Qe7 37.Re1 Qf6 38.Rf1 Qe7 39.fxg6 fxg6 40.Bxg6 Kg7 41.Bf5 Rf8 42.Qg4 Qe3 43.a3 Rh8 44.Bc2 1-0
+
+[Event "Tilburg "]
+[Site "Tilburg "]
+[Date "1998.10.29"]
+[Round "3"]
+[White "Anand, V."]
+[Black "Adams, M."]
+[Result "1-0"]
+[BlackElo "2715"]
+[WhiteElo "2795"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.Nc3 Bb4 5.Qc2 Bb7 6.a3 Bxc3+ 7.Qxc3 O-O 8.Bg5 h6 9.Bh4 c5 10.Rd1 Ne4 11.Qc2 Qe8 12.e3 f5 13.Be2 Nc6 14.dxc5 bxc5 15.Nd2 Ne5 16.Nxe4 Bxe4 17.Qc3 Ng6 18.Bh5 f4 19.f3 Rf5 20.Bxg6 Qxg6 21.fxe4 Qxg2 22.Rf1 Rh5 23.Rxf4 Qg1+ 24.Ke2 Qxh2+ 25.Bf2 e5 26.Rf3 Rg5 27.Qd3 Rb8 28. Rd2 Qh5 29.Qxd7 Kh8 30.Qh3 Qe8 31.Rf5 Rg6 32.Qf3 1-0
+
+[Event "Tilburg "]
+[Site "Tilburg "]
+[Date "1998.10.24"]
+[Round "4"]
+[White "Anand, V."]
+[Black "Kramnik, V."]
+[Result "1-0"]
+[BlackElo "2780"]
+[WhiteElo "2795"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.d4 d5 6.Bd3 Nc6 7.O-O Be7 8.Re1 Bg4 9.c3 f5 10.Qb3 O-O 11.Nbd2 Na5 12.Qa4 Nc6 13.Bb5 Nxd2 14.Nxd2 Qd6 15. h3 Bh5 16.Nb3 Bh4 17.Nc5 Bxf2+ 18.Kxf2 Qh2 19.Bxc6 bxc6 20.Qxc6 f4 21. Qxd5+ Kh8 22.Qxh5 f3 23.Qxf3 Rxf3+ 24.Kxf3 Rf8+ 25.Ke2 Qxg2+ 26.Kd3 Qxh3+ 27.Kc2 Qg2+ 28.Bd2 Qg6+ 29.Re4 h5 1-0
+
+[Event "FIDE (38) 1993-1996"]
+[Site "Sanghi Nagar cm qf rapid"]
+[Date "1994.01.01"]
+[Round "5"]
+[White "Anand, V."]
+[Black "Kamsky, G."]
+[Result "0-1"]
+[BlackElo "2710"]
+[WhiteElo "2715"]
+
+1.e4 d5 2.exd5 Nf6 3.d4 Nxd5 4.Nf3 Bg4 5.Be2 Nc6 6.c4 Nb6 7.d5 Bxf3 8.gxf3 Ne5 9.f4 Ned7 10.Nc3 c6 11.dxc6 bxc6 12.Be3 e6 13.Qc2 Nf6 14.Bd3 Qc7 15. O-O-O Be7 16.Ne4 Nxe4 17.Bxe4 f5 18.Bg2 O-O 19.Rd3 Rab8 20.Rhd1 c5 21.h3 Rfd8 22.b3 Nd7 23.Qb2 Nf8 24.Qe5 Rdc8 25.Qxc7 Rxc7 26.Kc2 Kf7 27.a4 a5 28. Bd2 Ra7 29.Bc6 Rc8 30.Bb5 Rcc7 31.Be3 h6 32.Rg1 Ng6 33.Kd2 e5 34.Be8+ Kxe8 35.Rxg6 Kf7 36.Rb6 g5 37.Ke2 gxf4 38.Bd2 Rcb7 39.Rb5 Ke6 40.Rc3 Bd6 41.Rc1 e4 42.Rg1 f3+ 43.Ke1 Rg7 44.Rf1 f4 45.Kd1 Rg2 46.Rb6 Rf7 47.Re1 e3 48.fxe3 f2 49.Rf1 f3 50.Kc2 Kd7 51.Rb7+ Ke8 52.Rxf7 Kxf7 53.e4 Bg3 54.Be3 Rg1 55. Rxg1 fxg1=Q 56.Bxg1 f2 57.Bxf2 Bxf2 58.Kd3 Ke6 59.Ke2 Bd4 60.Kf3 Ke5 61. Kg4 Kxe4 62.Kh5 Be3 63.Kg6 Kd3 64.Kf5 Kc3 65.Ke4 Bd4 66.Kd5 Kxb3 67.h4 Kxa4 68.h5 Kb4 69.Kc6 a4 70.Kd6 a3 71.Ke6 a2 72.Kf5 Kxc4 73.Kg6 a1=Q 74. Kxh6 Qg1 75.Kh7 Qg7# 0-1
+
+[Event "Amber"]
+[Site "Monaco rapid"]
+[Date "1995.03.01"]
+[Round "6"]
+[White "Anand, V."]
+[Black "Kramnik, V."]
+[Result "1-0"]
+[BlackElo "2715"]
+[WhiteElo "2715"]
+
+1.e4 g6 2.d4 Bg7 3.Nc3 c6 4.Nf3 d6 5.Be2 Nf6 6.O-O O-O 7.Re1 Qc7 8.Bf4 Nh5 9.Bg5 e5 10.Qd2 Re8 11.Rad1 Nd7 12.d5 c5 13.Nb5 Qb8 14.a4 a6 15.Nc3 Qc7 16.h3 Rb8 17.Nh2 Ndf6 18.Ra1 b6 19.Nf1 Qd7 20.Rab1 Qe7 21.Bxh5 gxh5 22.Ng3 Qf8 23.b4 Bd7 24.b5 Ra8 25.bxa6 Rxa6 26.Qd3 Rea8 27.Qf3 Ne8 28.Qxh5 f6 29. Bd2 Qf7 30.Qf3 Bf8 31.Nf5 Kh8 32.Rb2 Be7 33.Nxe7 Qxe7 34.Reb1 Qd8 35.Bh6 Ng7 36.Rb3 Bxa4 37.Nxa4 Rxa4 38.Rxb6 Ra1 39.Bxg7+ Kxg7 40.Rb7+ Kh8 41.Rxa1 Rxa1+ 42.Kh2 1-0
+
+[Event "PCA Intel-GP"]
+[Site "Moskou rapid"]
+[Date "1995.01.01"]
+[Round "7"]
+[White "Anand, V."]
+[Black "Ivanchuk, V."]
+[Result "0-1"]
+[BlackElo "2700"]
+[WhiteElo "2715"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nf3 e6 5.Be2 c5 6.Be3 Nd7 7.c4 dxc4 8.Nc3 Ne7 9.Bxc4 Nc6 10.d5 Nb6 11.Bb3 exd5 12.Nxd5 Be7 13.O-O O-O 14.Rc1 Nxd5 15. Bxd5 Nb4 16.Bc4 a6 17.e6 fxe6 18.Qb3 Qc8 19.a3 b5 20.axb4 bxc4 21.Rxc4 Rb8 22.Rfc1 Qb7 23.Qa2 Bd3 24.Rf4 c4 25.Ne5 Qd5 26.Nxd3 cxd3 27.Qxd5 exd5 28. Rd4 Rxb4 29.Rxd3 Rxb2 30.Rxd5 Ra8 31.g4 a5 32.Rd7 Bf8 33.Rcc7 a4 34.Ra7 Rbb8 35.Bd4 Rxa7 36.Rxa7 Rb4 37.Be5 Re4 38.Bc3 Rxg4+ 39.Kf1 a3 40.Ke2 Rc4 41.Kd3 Rf4 42.Bd4 h5 43.Ra8 Kh7 44.Ke3 Rf7 45.f4 Bd6 46.Be5 Bc5+ 47.Kd3 Kg6 48.Ra5 Bb4 49.Ra4 Rb7 50.Ke4 Kf7 51.Ra6 Be7 52.f5 Rb4+ 53.Kd5 Rg4 54. Ra7 Rg2 55.Ke4 a2 56.Kf3 Rc2 57.Ke4 Re2+ 58.Kf4 Rxe5 59.Kxe5 a1=Q+ 60.Rxa1 Bf6+ 61.Kf4 Bxa1 62.Kg5 Bb2 63.h4 Bc1+ 64.Kxh5 Kf6 0-1
+
+[Event "Amber"]
+[Site "Monaco blind"]
+[Date "1994.03.01"]
+[Round "8"]
+[White "Anand, V."]
+[Black "Karpov, A."]
+[Result "0-1"]
+[BlackElo "2740"]
+[WhiteElo "2715"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nd7 5.Bc4 Ngf6 6.Ng5 e6 7.Qe2 Nb6 8.Bb3 h6 9.N5f3 a5 10.a4 c5 11.Bf4 Bd6 12.Ne5 O-O 13.Ngf3 Qc7 14.Bg3 Nbd5 15. dxc5 Qxc5 16.O-O b6 17.Rfd1 Ba6 18.c4 Rad8 19.Nd3 Bxc4 20.Rac1 Bxd3 21. Qxd3 Nf4 22.Qf1 Qb4 23.Nd4 Be5 24.Rc4 Rxd4 25.Rxb4 Rxb4 26.Bc4 Rxa4 27.b3 Rb4 28.Qe1 Bb8 29.Bxf4 Bxf4 30.g3 Bb8 31.Qe2 b5 32.Bxb5 Rxb3 33.Ra1 Rc8 34.Kg2 Rc5 35.Bd3 Rb4 36.Qd2 Bd6 37.Rc1 Rxc1 38.Qxc1 Bf8 39.Qc7 a4 40.Qa7 Nd5 41.Bc2 Nc3 42.Qc7 Ne4 43.Qa5 a3 44.Qxa3 Nxf2 45.Kxf2 Rf4+ 46.gxf4 Bxa3 47.f5 exf5 48.Bxf5 Be7 49.Kg3 g6 50.Bc2 Bd6+ 51.Kg2 Kg7 52.h4 h5 53.Bb3 Be7 54.Kg3 Bd8 55.Bc4 Kf6 56.Bb3 Ba5 57.Kf2 Bc3 58.Bc4 Kg7 59.Bb3 Be5 60. Bc4 Bd6 61.Bb3 f5 62.Ba4 Kf7 63.Bb5 Ke7 64.Ba4 Be5 65.Bb5 Bf6 66.Kg3 Kf7 67.Bc4+ Kg7 68.Be6 Bd8 69.Bd7 Kh6 70.Kf4 Bxh4 71.Bxf5 Bg3+ 72.Ke4 gxf5+ 73.Kxf5 Bb8 74.Ke4 h4 75.Kf3 h3 76.Kf2 Bh2 0-1
+
+[Event "Amber"]
+[Site "Monaco rapid"]
+[Date "1993.03.01"]
+[Round "9"]
+[White "Anand, V."]
+[Black "Karpov, A."]
+[Result "0-1"]
+[BlackElo "2725"]
+[WhiteElo "2710"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nd7 5.Ng5 Ngf6 6.Bc4 e6 7.Qe2 Nb6 8.Bb3 h6 9.N5f3 c5 10.Bf4 Nbd5 11.Be5 Qa5+ 12.Nd2 cxd4 13.Nf3 Be7 14.Nxd4 O-O 15.O-O Bd7 16.c4 Nb4 17.N4f3 Nc6 18.Bc3 Qf5 19.a3 Rfd8 20.Rfd1 Be8 21.Nf1 Ne4 22.Be1 Ng5 23.Nxg5 Qxg5 24.Bc3 Bf6 25.Bxf6 Qxf6 26.Ng3 Nd4 27.Qe3 Bc6 28.Ne2 Qg5 29.Qxg5 Nxe2+ 30.Kf1 hxg5 31.Rxd8+ Rxd8 32.Kxe2 Bxg2 33.Rg1 Bc6 34.Rxg5 Rd4 35.Rg3 Kf8 36.h3 Rh4 37.Ba2 e5 38.b3 Bd7 39.Bb1 Rxh3 40.Rxh3 Bxh3 41.c5 Bd7 42.b4 Ke7 43.Bc2 f5 44.a4 a6 45.Kd3 g5 46.Kc4 Be6+ 47.Kc3 Kf6 48.b5 axb5 49.axb5 Bd5 50.Ba4 Ke7 51.Bc2 Ke6 52.c6 bxc6 53.b6 Kd6 54. Bxf5 c5 55.Kd3 Kc6 56.Bh7 Kxb6 57.Bf5 Kc7 58.Bh7 Kc6 59.Ke3 Kb5 60.Kd2 Kb4 61.Bf5 Kb3 62.Kc1 Kc3 63.Bc2 Bc4 64.Bf5 Bd3 65.Bc8 Kd4 66.Bb7 c4 67.Kd2 c3+ 68.Kd1 e4 0-1
+
+[Event "Dortmund"]
+[Site "Dortmund"]
+[Date "1997.07.04"]
+[Round "10"]
+[White "Anand, V."]
+[Black "Ivanchuk, V."]
+[Result "1-0"]
+[BlackElo "2725"]
+[WhiteElo "2765"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.a3 Bxc3+ 6.bxc3 Ne7 7.Nf3 h6 8.Bd3 b6 9.O-O Ba6 10.Nh4 Bxd3 11.Qxd3 Nbc6 12.f4 Qd7 13.Bd2 c4 14.Qh3 g6 15.a4 O-O-O 16.Nf3 h5 17.Rfb1 Nf5 18.g3 Kb7 19.Qf1 Ka8 20.Bc1 Rb8 21.Qe1 Rb7 22. Ba3 Qd8 23.Ng5 Re8 24.Qd2 f6 25.Nf3 Nh6 26.exf6 Qxf6 27.Re1 Nf7 28.Re2 Ne7 29.Rae1 Nf5 30.Qc1 Ng7 31.Kg2 Qd8 32.h3 Qd7 33.Nh4 Nh8 34.Nf3 Nf7 35.a5 bxa5 36.Bc5 a6 37.Qa3 Rb5 38.Ra1 Kb7 39.Ree1 Rb8 40.Bf8 Ne8 41.Ne5 Nxe5 42.fxe5 g5 43.Re2 Kc6 44.Rf1 Qh7 45.Be7 g4 46.h4 R8b7 47.Bd8 Rf7 48.Rxf7 Qxf7 49.Rf2 Qg6 50.Kh2 1-0

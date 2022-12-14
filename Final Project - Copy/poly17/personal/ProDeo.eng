@@ -1,0 +1,137 @@
+[Personality = ProDeo.eng]      * Pro Deo 1.74 (December 1, 2011)
+[Author = Ed Schröder]
+
+[NPS ? 10]                      
+[PLY ? 6]                       
+
+[Pawn Value = 100]                 
+[Knight Value = 100]               
+[Bishop Value = 100]               
+[Rook Value = 100]                 
+[Queen Value = 100]                
+[My Queen = 101]                   
+
+[King Safety = 75]              
+
+[Mobility = 100]                   
+[Minimum Knight Mobility = 100] 
+[Minimum Bishop Mobility = 100]  
+[Knight Mobility = 100]         
+[Bishop Mobility = 25]             
+[Unequal Bishops = 100]         
+
+[Pawn Structure = 100]             
+[Pawn Formation = 100]             
+[Weak Pawns = 100]                 
+[Pawn Pressure = 100]              
+[Double Pawns = 100]               
+[Double Isolated Pawns = 100]      
+[Passed Pawns = 100]               
+[Passed Pawn Tropism (1) = 100]    
+[Passed Pawn Tropism (2) = 250] 
+
+[Bad Bishop = 100]                 
+[Bishop_Pair = 100]             
+[Pins = 100]                       
+[Center Control = 25]           
+[Right to Move = 0]             
+[Strong Squares = 125]          
+[Rook 7th Rank (1) = 50]           
+[Rook 7th Rank (2) = 75]        
+[Bishop Pair Extra = 100]       
+
+[Eternal Checks ? Normal]         
+[Rook behind Passed Pawn ? 50]
+[Queen Endgame Bonus ? 0.50]                  
+
+[Chess Knowledge = 100]           
+[Attractiveness = 101]            
+[Attacking = 100]                 
+[Strength of Play = 100]          
+[Draw Contempt Factor = 0.00]     
+[Selective Search = 100]  
+[Search Technique = NULLMOVE]     
+
+[Book Learner = off]              
+[Position Learner = off]          
+[Engine Master = off]             
+[Engine Learner = off]            
+[Extended Book Learner = off]     
+
+[EOC File = ]       
+[EOC Use = none]                 
+[EOC Learner = off]                 
+
+[TR70 redu = off]               
+[FH redu = off]                 
+[BBB redu = on]                 *
+[PLMAX-A redu = on]		*
+[PLMAX-B redu = on]		* 
+[PLW3 redu = on]		* 
+[PLZ3 redu = on]                
+[HISTORY redu = on]             
+
+[Pruning = MISC_42]		* 
+[Pruning ? MISC_76]		*   
+
+[Pruning ? MISC_48]             
+[Pruning ? MISC_33]             
+[Pruning ? MISC_08]             
+
+[Pruning ? MISC_11]             
+[HR_init = 100]                 
+[HR_threshold = 50]             
+[HR_replace = 0]                
+[HR_margin ? 64]                *
+[HR_increment = 5]              
+[HR_decrement = 1]              
+[HR_alpha = on]                 
+[HR_passed_pawn = off]          
+[HR_king_safety = off]          
+[HR_killer = off]               
+[HR_pst = off]                  
+[HR_midg = 5]                   
+[HR_end1 = 5]                   
+[HR_end2 = 5]                   
+[HR_moves = 3]                  
+[HR_depth = 3]                  
+    
+[Pruning ? MISC_07]             
+[AB DEPTH = 0]                  
+
+[Pruning = MISC_09]             
+[Pruning = MISC_10]             
+[Pruning = MISC_13]             
+[Pruning = MISC_14]             
+[Pruning = MISC_16]             
+[Pruning = MISC_26]             
+[Pruning ? MISC_29]             
+[Pruning = MISC_61]             
+[Pruning = MISC_63]             
+
+[HR_moves = 3]                  
+[HR_depth = 3]                  
+
+[M78_DEPTH ? 4]                 
+
+[Pruning = MISC_01]             * 
+[HR_margin = 0]                 * 
+
+[Pruning = MISC_03]             
+[M03_div = 2]                   
+
+[Time Control = 100]            
+[Blitz Time Control = 120]         
+[ANTI-GM = OFF]                    
+[EVALUATION = SMART]               
+
+[Recaptures = Normal]           
+[Extensions (remaining)= 1]     
+[Extensions (checks)= low]      
+[Singular Checks = 1]           
+
+[Futility = 100]      
+[Futility Depth = 6]            
+            
+[Checks Depth ? 2]              
+[Unsorted Tree Depth ? 3]      
