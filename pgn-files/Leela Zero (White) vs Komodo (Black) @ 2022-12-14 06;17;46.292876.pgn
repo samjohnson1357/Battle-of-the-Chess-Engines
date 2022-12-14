@@ -1,0 +1,16 @@
+[Event "Regular game"]
+[Site "Dell Laptop"]
+[Date "2022-12-14"]
+[Round "1"]
+[White "Leela Zero"]
+[Black "Komodo"]
+[Result "1/2-1/2"]
+[BlackEvalHistory "[0.03, 0.0, -0.02, -0.42, -0.36, -0.35, -0.44, -0.26, -0.28, -0.33, -0.27, -0.35, -0.39, -0.39, -0.43, -0.35, -0.35, -0.39, -0.55, 0.0, 0.0, 0.0, 0.0, 0.0, -0.06, -0.02, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"]
+[FEN "rnbqkb1r/pp1n1ppp/4p3/2ppP3/3P4/5N2/PPPN1PPP/R1BQKB1R w KQkq - 1 6"]
+[SetUp "1"]
+[Termination "Threefold_Repetition"]
+[Time "06:17:46.292876"]
+[TimeControl "60"]
+[WhiteEvalHistory "[0.09, 0.09, 0.28, 0.33, 0.29, 0.26, 0.23, 0.23, 0.23, 0.28, 0.37, 0.33, 0.36, 0.36, 0.45, 0.38, 0.29, 0.32, 0.32, 0.36, 0.36, 0.37, 0.36, 0.37, 0.39, 0.39, 0.39, 0.39, 0.4, 0.44, 0.53, 0.51, 0.48, 0.73, 0.7, 0.64, 0.64, 0.65, 0.65, 0.65, 0.64, 0.57, 0.52, 0.5, 0.47, 0.49, 0.5, 0.48, 0.45, 0.44, 0.43, 0.4, 0.42, 0.44, 0.43, 0.42, 0.42, 0.39, 0.44, 0.43]"]
+
+6. c3 Nc6 7. Bd3 g5 8. h3 h5 9. Be2 Rg8 10. Nb3 g4 11. hxg4 hxg4 12. Nh2 Qh4 13. g3 Qh7 14. Be3 f5 15. Qc2 c4 16. Nd2 b5 17. f3 gxf3 18. Ndxf3 Rxg3 19. O-O-O Bh6 20. Nf1 Bxe3+ 21. Nxe3 Qe7 22. Rdg1 Rxg1+ 23. Rxg1 Bb7 24. Rg8+ Nf8 25. Nxd5 exd5 26. Qxf5 Qf7 27. Qg5 Nd8 28. Rg7 Nfe6 29. Rxf7 Nxg5 30. Rxb7 Nxb7 31. Nxg5 Ke7 32. Bf3 Rg8 33. Bxd5 Rxg5 34. Bxb7 Rh5 35. Bc6 a6 36. a4 bxa4 37. Bxa4 Rh1+ 38. Kc2 Rh2+ 39. Kb1 Rg2 40. Ka2 Rg1 41. Bc6 Ke6 42. Be4 Rg8 43. Bf3 Rf8 44. Be4 Rf7 45. Bc6 Rf8 46. Bh1 a5 47. Bg2 Rf2 48. Be4 Rd2 49. Bf3 Rf2 50. Ba8 Rh2 51. Kb1 Rh8 52. Bg2 Rh2 53. Bb7 Re2 54. Ka2 Re3 55. Bh1 Re1 56. Bf3 Re3 57. Bc6 Rg3 58. Ba8 Rg7 59. Bh1 Rc7 60. Bg2 Rh7 61. Bc6 Rh2 62. Bf3 Rh4 63. Ka3 Rh2 64. Ka2 Rh4 65. Bg2 Rh2 1/2-1/2

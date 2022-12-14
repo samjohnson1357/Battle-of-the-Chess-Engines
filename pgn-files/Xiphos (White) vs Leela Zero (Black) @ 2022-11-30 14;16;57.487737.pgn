@@ -1,0 +1,14 @@
+[Event "Regular game"]
+[Site "Dell Laptop"]
+[Date "2022-11-30"]
+[Round "1"]
+[White "Xiphos"]
+[Black "Leela Zero"]
+[Result "1/2-1/2"]
+[BlackEvalHistory "[-0.09, -0.1, -0.1, -0.05, -0.05, -0.04, -0.03, 0.03, 0.01, -0.02, -0.02, 0.15, 0.13, 0.03, 0.02, -0.01, -0.06, -0.07, -0.02, -0.03, -0.01, 0.0, 0.0, 0.03, 0.08, 0.06, 0.03, -0.01, -0.05, -0.05, -0.03, -0.03, 0.0, 0.0, 0.0, 0.0, -0.01]"]
+[Termination "Threefold_Repetition"]
+[Time "14:16:57.487737"]
+[TimeControl "10"]
+[WhiteEvalHistory "[0.28, 0.17, 0.23, 0.15, 0.12, 0.29, 0.22, 0.21, 0.19, 0.26, 0.0, -0.11, -0.17, -0.11, 0.11, 0.3, 0.11, 0.0, 0.06, 0.21, 0.28, 0.09, 0.25, 0.37, 0.12, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c6 4. cxd5 exd5 5. Bf4 Nf6 6. e3 Bf5 7. Nge2 Nh5 8. Qb3 Qb6 9. Qxb6 axb6 10. Be5 Nd7 11. f3 Nhf6 12. Bf4 h5 13. h4 b5 14. Nc1 Nb6 15. Bd3 Bh7 16. Kf2 Be7 17. Bg5 O-O 18. Bxh7+ Kxh7 19. Nd3 Ra7 20. a3 Rfa8 21. Rad1 Nc4 22. Rhe1 Bd8 23. Re2 Ba5 24. Bxf6 gxf6 25. Rc1 f5 26. Nf4 Kh6 27. Na2 Bd8 28. Rh1 Be7 29. Nb4 Bd6 30. Nbd3 Re8 31. Rc1 Raa8 32. Rb1 Re7 33. Rbe1 Rae8 34. g3 Bc7 35. Ng2 Rg8 36. Ngf4 Rge8 37. Ng2 Rg8 38. Ngf4 1/2-1/2
