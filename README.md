@@ -1,7 +1,7 @@
 # Leela Zero against Other Top Chess Engines
 
 In 2017 AlphaZero revolutionized modern chess engines by defeating 
-the World Champion, Stockfish 8. Today, we look at how well Leela Zero,
+the Computer World Champion, Stockfish 8. Today, we look at how well Leela Zero,
 the open source version of AlphaZero, does against modern chess engines.
 You can run the code yourself, read the paper "Final Paper.pdf",
 look through the PowerPoint at "RL Chess Final Presentation.pptx", or
